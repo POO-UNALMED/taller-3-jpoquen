@@ -107,4 +107,8 @@ public class TV {
 	public int getCanal () {
 		return canal;
 	}
+//-----------------------------------------------------------
+	public int getEstado () {
+		return estado;
+	}
 }
