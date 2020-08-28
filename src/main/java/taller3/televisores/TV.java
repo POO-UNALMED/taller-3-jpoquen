@@ -16,6 +16,10 @@ public class TV {
 	}
 	
 	
+	public void setNumTV (int num) {
+		numTV = num;
+	}
+	
 	public int getNumTV () {
 		return numTV;
 	}
