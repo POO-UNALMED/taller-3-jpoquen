@@ -108,7 +108,7 @@ public class TV {
 		return canal;
 	}
 //-----------------------------------------------------------
-	public int getEstado () {
+	public boolean getEstado () {
 		return estado;
 	}
 }
